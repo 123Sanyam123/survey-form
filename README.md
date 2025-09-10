@@ -1,6 +1,6 @@
 # survey-form
 
-**Description**
+**Description**  
 A responsive survey form built with plain HTML5 and CSS3 to collect user feedback and contact details. Focused on accessibility and clean layout.
 
 
@@ -16,6 +16,6 @@ A responsive survey form built with plain HTML5 and CSS3 to collect user feedbac
 - Simple responsive layout tested on desktop and mobile browsers
 
 
-**How to run (local)**
+**How to run (local)**  
 1. Clone or download the repo.
 2. Open `index.html` in any modern browser (Chrome, Edge, Firefox).
